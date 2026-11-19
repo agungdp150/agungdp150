@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Agung Dwi Putra — Software engineer</title>
+  <desc id="desc">Web, mobile, and backend systems. Billing, payments, and workforce operations.</desc>
+  <rect width="1200" height="320" rx="16" fill="#101B2A"/>
+  <path d="M880 0V320M960 0V320M1040 0V320M1120 0V320M840 80H1200M840 160H1200M840 240H1200" stroke="#233348"/>
+  <rect x="52" y="51" width="34" height="4" rx="2" fill="#70DFBE"/>
+  <text x="52" y="115" fill="#F0F5FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">Agung Dwi Putra</text>
+  <text x="54" y="163" fill="#70DFBE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="500">Software engineer</text>
+  <text x="54" y="220" fill="#CAD5E4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Web, mobile, and backend systems.</text>
+  <text x="54" y="257" fill="#A4B5CC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">Billing, payments, and workforce operations</text>
+  <rect x="918" y="78" width="156" height="156" rx="24" fill="#142538" stroke="#35506A"/>
+  <path d="M973 132L949 156L973 180M1019 132L1043 156L1019 180M1006 119L986 193" stroke="#70DFBE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
