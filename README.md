@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Agung Dwi Putra — Software engineer. Web, mobile, and backend systems." width="100%" />
+  <img src="assets/triangle-header.svg" alt="Agung Dwi Putra — Software engineer. Web, mobile, and backend systems." width="100%" />
 </p>
 
 <p align="center">
