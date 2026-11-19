@@ -24,7 +24,7 @@ These links describe my contributions to company projects; the source code is no
 
 | Project | Focus |
 | :--- | :--- |
-| **[Lead Qualification API](https://github.com/agungdp150/lead-qualification-api)** | Ruby on Rails API using AI to score leads and route prospects to sales or follow-up workflows. |
+| **[OptiMac](https://github.com/agungdp150/optimac)** | Rust terminal application for macOS storage analysis, reviewed file cleanup, app management, and system health monitoring. |
 | **[React Tiny Image Carousel](https://github.com/agungdp150/react-tiny-image-carousel)** | Published React package with TypeScript types, keyboard navigation, touch swipe, and responsive CSS. |
 | **[Portfolio](https://github.com/agungdp150/agung-portfolio)** | The source for my personal site. Visit [agung-dp.net](https://agung-dp.net) for project case studies and my résumé. |
 
